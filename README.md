@@ -13,4 +13,4 @@ Below are pictures that presents types of questions with check box, radio button
 ![program7](https://user-images.githubusercontent.com/55504119/85604526-a8463100-b651-11ea-8440-70e5a79fb532.png)
 ![program8](https://user-images.githubusercontent.com/55504119/85604541-abd9b800-b651-11ea-85ce-04187594e442.png)
 
-Last possibility is to click on another action "Pregled"="View", where are names of all students from database, it shows on which date students are logged in.
+Another possibility is to click on another action "Pregled"="View", where are names of all students from database, it shows on which date students are logged in.
